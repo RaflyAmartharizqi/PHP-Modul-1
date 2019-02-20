@@ -1,0 +1,12 @@
+# PHP-Modul-1
+Latihan 1
+![alt text](https://github.com/RaflyAmartharizqi/PHP-Modul-1/blob/master/Latihan%201.png)
+Latihan 2
+![alt text](https://github.com/RaflyAmartharizqi/PHP-Modul-1/blob/master/Latihan%202.png)
+Latihan 3
+![alt text](https://github.com/RaflyAmartharizqi/PHP-Modul-1/blob/master/Latihan%203.png)
+Latihan 4
+![alt text](https://github.com/RaflyAmartharizqi/PHP-Modul-1/blob/master/Latihan%204.png)
+Latihan 5
+![alt text](https://github.com/RaflyAmartharizqi/PHP-Modul-1/blob/master/Latihan%205(1).png)
+![alt text](https://github.com/RaflyAmartharizqi/PHP-Modul-1/blob/master/Latihan%205(2).png)
